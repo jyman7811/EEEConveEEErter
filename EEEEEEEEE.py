@@ -14,7 +14,7 @@ class EEE:
     def eeeEeee(self, ee: eeeE):
         self.e = ee
 
-    def ee(self, eeee: str):
+    def ee(self, eeee: eeE):
         EeEe = "E"
         if (self.e == Ee):
             EeEe = "e"
